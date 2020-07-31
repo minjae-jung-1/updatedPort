@@ -1,0 +1,23 @@
+body {
+    background-color:#ce3635;
+    text-align: center;
+    color:#fff;
+    padding-top:10em;
+  }
+  
+  * { color:#fff; text-decoration: none;}
+
+.link {
+  margin:auto;
+  top: 50vh ;
+  left: 50%;
+  text-align: center;
+}
+
+.skills{
+  font-size: 40px;
+}
+
+.bot{
+  margin-top: 15%;
+}
