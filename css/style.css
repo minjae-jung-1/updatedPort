@@ -21,3 +21,11 @@ body {
 .bot{
   margin-top: 15%;
 }
+
+.pushDown{
+  margin-bottom: 100px;
+}
+
+.pushUp{
+  margin-top: 100px;
+}
